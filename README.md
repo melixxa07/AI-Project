@@ -1,4 +1,4 @@
-# AI-Project
+<font color = 'PeachPuff'> # AI-Project
 
 ## Group Members
 - Melissa Galeano Ruiz, CC: 1000.416.463, Ingeniería Mecánica
