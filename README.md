@@ -5,3 +5,4 @@
 - Sofía Gutiérrez Tangarife, CC: XXXXX  -  Mechanical Engineering
 
 ## Data
+Aquí va la info de los datos del kaggle
