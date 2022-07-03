@@ -5,7 +5,8 @@
 - Sofía Gutiérrez Tangarife, CC: 1001.576.929  -  Mechanical Engineering 
 
 ## Data
-Kaggle link and kaggle data
+Project data comes from [The Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview/description).
+
 
 ## Videos
 - First Delivery Video
