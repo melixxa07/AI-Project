@@ -7,7 +7,7 @@
 ## Data
 Project data comes from [The Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview/description).
 
-###  **IMPORTANT NOTE:**
+####  **IMPORTANT NOTE:**
 _The project has been carried out in a **single notebook** for ease of data management. In this, you can find all the processes and codes carried out during the project._
 
 ## Videos
