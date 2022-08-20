@@ -11,7 +11,7 @@ Project data comes from [The Spaceship Titanic Competition](https://www.kaggle.c
 _The project has been carried out in a **single notebook** for ease of data management. In this, you can find all the processes and codes carried out during the project._
 
 ## Videos
-- First Delivery Video
+- [First Delivery Video](https://www.youtube.com/watch?v=2pisk9-Nt54)
 - Second Delivery Video
 
 
