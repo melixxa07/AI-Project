@@ -12,6 +12,6 @@ _The project has been carried out in a **single notebook** for ease of data mana
 
 ## Videos
 - [First Delivery Video](https://www.youtube.com/watch?v=2pisk9-Nt54)
-- Second Delivery Video
+- [Second Delivery Video](https://www.youtube.com/watch?v=5wBwgmBmZQY)
 
 
